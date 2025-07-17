@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kowshik2018
+- 👋 Hi, I’m @kowshik ks
 - 👀 I’m interested in python ,web development 
 - 🌱 I’m currently learning react.js 
 - 💞️ I’m looking to collaborate on  js,python developer   
